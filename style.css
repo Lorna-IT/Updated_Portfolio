@@ -88,7 +88,7 @@ li a:hover {
 .name {
     padding: 10px 0;
     text-align: center;
-    background-color: #4aaaa5;
+    background-image: #4aaaa5;
     color: #ffffff;
 }
 
@@ -113,6 +113,8 @@ footer {
 
 .project {
     position: relative;
+    height: 100%;
+    Width: 100%
 }
 
 .project-img {
